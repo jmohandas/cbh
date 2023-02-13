@@ -79,7 +79,7 @@ Add ability for the Facilities to store custom Ids for each Agent they work with
 
 > Description
 
-The `generateReport` function shall include the customId from the `AgentFacilityIds` to unqiuely identify the agents instead of the database Ids. To fulfill this requirement, it is mandatory to include the customId as part of the report for the facilities along with other shoft information.
+The `generateReport` function shall include the customId from the `AgentFacilityIds` to unqiuely identify the agents instead of the database Ids. To fulfill this requirement, it is mandatory to include the customId as part of the report for the facilities along with other information.
 
 > Definition Of Done
 
